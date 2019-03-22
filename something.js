@@ -1,2 +1,2 @@
 console.log("something")
-<p> This is a syntax</p>
+<p> This is an different syntax</p>
