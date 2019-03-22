@@ -1,2 +1,2 @@
-console.log("something")
-<p> This is a something else saa checkout</p>
+console.log("something");
+<p> This is an different syntax</p>
